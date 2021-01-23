@@ -1,0 +1,6 @@
+.item{
+    display: flex;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 100px;
+}
